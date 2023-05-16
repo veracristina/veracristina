@@ -1,0 +1,14 @@
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/bin/Debug/net7.0/Recipe - Rumos.deps.json
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/bin/Debug/net7.0/Recipe - Rumos.runtimeconfig.json
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/bin/Debug/net7.0/Recipe - Rumos.dll
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/bin/Debug/net7.0/Recipe - Rumos.pdb
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/RecipesApp.csproj.AssemblyReference.cache
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/RecipesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/RecipesApp.AssemblyInfoInputs.cache
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/RecipesApp.AssemblyInfo.cs
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/RecipesApp.csproj.CoreCompileInputs.cache
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/Recipe - Rumos.dll
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/refint/Recipe - Rumos.dll
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/Recipe - Rumos.pdb
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/RecipesApp.genruntimeconfig.cache
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/Recipe - Rumos/obj/Debug/net7.0/ref/Recipe - Rumos.dll

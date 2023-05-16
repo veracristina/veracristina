@@ -1,0 +1,15 @@
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/bin/Debug/net7.0/RecipesApp.Services.deps.json
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/bin/Debug/net7.0/RecipesApp.Services.dll
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/bin/Debug/net7.0/RecipesApp.Services.pdb
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/bin/Debug/net7.0/Recipe - Rumos.dll
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/bin/Debug/net7.0/Recipe - Rumos.pdb
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.csproj.AssemblyReference.cache
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.AssemblyInfoInputs.cache
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.AssemblyInfo.cs
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.csproj.CoreCompileInputs.cache
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.csproj.CopyComplete
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.dll
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/refint/RecipesApp.Services.dll
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/RecipesApp.Services.pdb
+/Users/veralopescristina/Projects/VeraRumos/Projecto pratico/Recipe - Rumos/RecipesApp.Services/obj/Debug/net7.0/ref/RecipesApp.Services.dll

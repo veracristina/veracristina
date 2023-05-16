@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{BDB4D990-7CB1-45AE-8223-F7E2BBB336CD}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument=".editorconfig">
+    <Files>
+      <File FileName="RecipeAPI/Startup.cs" Line="14" Column="1" />
+      <File FileName="RecipeAPI/appsettings.json" />
+      <File FileName="RecipesApp.Services/Services/IRecipeService.cs" />
+      <File FileName="Recipe - Rumos/Repositories/RecipeRepository.cs" />
+      <File FileName="Recipe - Rumos/Repositories/IRecipeRepository.cs" />
+      <File FileName="Recipe - Rumos/Repositories/UserRepository.cs" />
+      <File FileName="RecipeAPI/Controllers/RecipeController.cs" />
+      <File FileName="Recipe - Rumos/RecipesApp.cs" />
+      <File FileName="Recipe - Rumos/Models/Recipe.cs" />
+      <File FileName="RecipeAPI/JwtSettings.cs" />
+      <File FileName="RecipeAPI/appsettings.Development.json" />
+      <File FileName="RecipeAPI/Program.cs" />
+      <File FileName="RecipeAPI/Properties/launchSettings.json" />
+      <File FileName="../../../../.nuget/packages/microsoft.extensions.apidescription.server/7.0.5/build/Microsoft.Extensions.ApiDescription.Server.targets" Line="9" Column="62" />
+      <File FileName="RecipeAPI/wwwroot/js/site.js" />
+      <File FileName="RecipeAPI/Pages/_ViewImports.cshtml" />
+      <File FileName="RecipeAPI/Pages/Shared/_Layout.cshtml" />
+      <File FileName=".editorconfig" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Recipe - Rumos" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="RecipeAPI" expanded="True" />
+            <Node name="RecipesApp.Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RecipeAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
